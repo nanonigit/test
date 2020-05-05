@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
     println("Hello World!")
-    //  ã‚³ãƒ¡ãƒ³ãƒˆ
+    //  •¶Žš‰»‚¯
     println("kudo")
 }
